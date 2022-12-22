@@ -24,7 +24,7 @@ url = input(fore.GREEN + "Enter Target Website :")
 
 print(fore.BLUE + "Getting IP Address attacking........")
 print(Fore.BLUE + "Getting IP Address  0%")
-print(fore.BLUE"Getting IP Address  10%")
+print(fore.BLUE + "Getting IP Address  10%")
 print(fore.BLUE + "Getting IP Address  20%")
 print(fore.BLUE + "Getting IP Address  40%")
 print(fore.BLUE + "Getting IP Address  60%")
