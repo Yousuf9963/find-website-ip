@@ -1,6 +1,6 @@
 
 
-print("Version 1.3")
+print("Thank you")
 
 print("[+] Tool Namee:Find-Website-IP")
 print("[+] Author:Yousuf Shafi'i Muhammad.(Junior Programmer")
