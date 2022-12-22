@@ -20,7 +20,7 @@ print("")
 
 import socket
 
-url = input(fore.GREEN"Enter Target Website :")
+url = input(fore.GREEN + "Enter Target Website :")
 
 print(fore.BLUE + "Getting IP Address attacking........")
 print(Fore.BLUE + "Getting IP Address  0%")
