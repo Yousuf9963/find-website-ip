@@ -29,6 +29,6 @@ print("Getting IP Address  90%")
 print("Getting IP Address  100%")
 print("IP Address Founded Successsfully")
 
-print("IP is:" ,socket.gethostbyname(url))
+print("IP Address is:" ,socket.gethostbyname(url))
 
 
