@@ -25,3 +25,7 @@ cd find-website-ip
 python3 get-website-ip
 
 # Follow me Thank you ...
+
+# Donation
+
+If you want to Donate Kindly click here Thank you.: https://www.buymeacoffee.com/junioprogrammer
