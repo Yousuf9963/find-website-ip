@@ -22,7 +22,7 @@ git clone https://github.com/Yousuf9963/find-website-ip.git
 
 cd find-website-ip
 
-python3 get-website-ip
+python3 get-website-ip.py
 
 # Follow me Thank you ...
 
