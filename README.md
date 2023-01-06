@@ -22,6 +22,8 @@ git clone https://github.com/Yousuf9963/find-website-ip.git
 
 cd find-website-ip
 
+chmod +x *
+
 python3 get-website-ip.py
 
 # Follow me Thank you ...
