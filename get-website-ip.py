@@ -1,7 +1,6 @@
 import os
 os.system('pip install socket')
 os.system('clear')
-print("Thank you")
 
 print("[+] Tool Name:Find-Website-IP")
 print("[+] Author:Yousuf Shafi'i Muhammad.(Junior Programmer")
