@@ -1,10 +1,11 @@
-
-
+import os
+os.system('pip install socket')
+os.system('clear')
 print("Thank you")
 
-print("[+] Tool Namee:Find-Website-IP")
+print("[+] Tool Name:Find-Website-IP")
 print("[+] Author:Yousuf Shafi'i Muhammad.(Junior Programmer")
-print("[+] Version:1.3")
+print("[+] Version:1.0")
 print("[+] Team:Junior Programmers")
 print("[+] Github:https://github.com/Yousuf9963/phone-num-info")
 print("[+] Follow me on Github: https://github.com/Yousuf9963")
