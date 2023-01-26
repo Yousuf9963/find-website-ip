@@ -3,7 +3,7 @@ os.system('pip install socket')
 os.system('clear')
 
 print("[+] Tool Name:Find-Website-IP")
-print("[+] Author:Yousuf Shafi'i Muhammad.(Junior Programmer")
+print("[+] Author:Yousuf Shafi'i Muhammad.Junior Programmer")
 print("[+] Version:1.0")
 print("[+] Team:Junior Programmers")
 print("[+] Github:https://github.com/Yousuf9963/phone-num-info")
